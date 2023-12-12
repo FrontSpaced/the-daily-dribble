@@ -1,0 +1,37 @@
+body {
+    color: #121212;
+    text-align: center;
+}
+
+p {
+  font-style: italic;
+}
+
+img {
+    width: 380px;
+    border: 3px solid #121212;
+}
+
+input {
+    width: 240px;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.terms {
+    font-style: italic;
+}
